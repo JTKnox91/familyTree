@@ -1,0 +1,19 @@
+{
+  "name": "familytree",
+  "version": "1.0.0",
+  "description": "Interactive Family Tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTKnox91/familyTree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTKnox91/familyTree/issues"
+  },
+  "homepage": "https://github.com/JTKnox91/familyTree#readme"
+}
