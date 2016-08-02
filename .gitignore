@@ -11,7 +11,7 @@ logs
 node_modules/
 client/bower_components/
 
-### heroku files we don't want to pull down##
+### heroku files we don't want to pull down ###
 Dockerfile
 docker-compose.yml
 
