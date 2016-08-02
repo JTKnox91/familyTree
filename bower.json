@@ -1,0 +1,17 @@
+{
+  "name": "familytree",
+  "description": "Interactive Family Tree",
+  "main": "index.js",
+  "authors": [
+    "jtknox91 <jtknox91@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/JTKnox91/familyTree",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
