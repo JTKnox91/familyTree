@@ -7,6 +7,6 @@ app.get('/api', function (req, res) {
 
 app.use(express.static('client'));
 
-app.listen(5000, function () {
-  console.log("Family Tree Server listening on port 5000!");
+app.listen(process.env.PORT || 5000, function () {
+  console.log("Family Tree Server listening on port " + (process.env.PORT || 5000));
 });
