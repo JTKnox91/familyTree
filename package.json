@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JTKnox91/familyTree/issues"
   },
-  "homepage": "https://github.com/JTKnox91/familyTree#readme"
+  "homepage": "https://github.com/JTKnox91/familyTree#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
