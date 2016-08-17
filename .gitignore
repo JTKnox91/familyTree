@@ -10,6 +10,7 @@ logs
 # Dependency directorys
 node_modules/
 client/bower_components/
+*.sqlite
 
 ### heroku files we don't want to pull down ###
 Dockerfile
